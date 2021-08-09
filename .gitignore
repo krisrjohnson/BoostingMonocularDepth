@@ -1,4 +1,5 @@
 /.idea
+.ipynb_checkpoints
 /pix2pix/checkpoints
 /midas/model-f46da743.pt
 /midas/model.pt
