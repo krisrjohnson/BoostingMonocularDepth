@@ -5,11 +5,11 @@ clear
 evaluation_name = 'testEvaluation';
 
 %% Fill in the needed path and flags for evaluation
-estimation_path = '';
-gt_depth_path = '';
-evaluation_matfile_save_dir = './';
+estimation_path = '/content/outputs_midas/';
+gt_depth_path = '/content/gt_depth/';
+evaluation_matfile_save_dir = 'content/matilfe_saves/';
 dataset_disp_gttype = true; %% (True) for gt disparity (False) for gt depth 
-superpixel_scale = 1; % use 0.2 for middleburry and 1 for ibims1 and NYU %Used for rescaling the image before extracting superpixel centers for D3R error metric. smaller scale for high res images results in a faster evaluation.
+superpixel_scale = .2; % use 0.2 for middleburry and 1 for ibims1 and NYU %Used for rescaling the image before extracting superpixel centers for D3R error metric. smaller scale for high res images results in a faster evaluation.
 
 %%
 
