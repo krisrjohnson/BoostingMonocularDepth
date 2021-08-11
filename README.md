@@ -13,6 +13,8 @@ By Phil Navo and Kris Johnson, based on the paper:
 Try the model easily in Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krisrjohnson/BoostingMonocularDepth/blob/main/Boostmonoculardepth.ipynb)
 
 ## Goals
+This assignment 
+
 1. Better explain existing repo
 1. Experiments on Patch Size
 
@@ -32,6 +34,10 @@ Try the model easily in Colab : [![Open In Colab](https://colab.research.google.
 
 ## Outcomes
 - Phil results
+
+![Bike Experiments](./figures/bike_exp.gif)
+
+
 - Repo partial cleanup
 
 
