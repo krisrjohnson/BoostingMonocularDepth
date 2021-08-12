@@ -36,6 +36,7 @@ This assignment
 - Phil results
 
 ![Bike Experiments](./figures/bike_exp.gif)
+![Pipes Experiments](.figures/pipes_exp.gif)
 
 
 - Repo partial cleanup
