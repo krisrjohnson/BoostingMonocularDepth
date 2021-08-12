@@ -7,7 +7,8 @@ By Phil Navo and Kris Johnson, based on the paper:
 > S. Mahdi H. Miangoleh\*, Sebastian Dille\*, Long Mai, Sylvain Paris, Yağız Aksoy.
 > [Main pdf](http://yaksoy.github.io/papers/CVPR21-HighResDepth.pdf),
 > [Supplementary pdf](http://yaksoy.github.io/papers/CVPR21-HighResDepth-Supp.pdf),
-> [Project Page](http://yaksoy.github.io/highresdepth/).
+> [Project Page](http://yaksoy.github.io/highresdepth/),
+> [Github Repo](https://github.com/compphoto/BoostingMonocularDepth).
 
 ## TL;DR
 Try the model easily in Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krisrjohnson/BoostingMonocularDepth/blob/main/Boostmonoculardepth.ipynb)

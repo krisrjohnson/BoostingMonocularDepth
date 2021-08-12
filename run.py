@@ -96,7 +96,7 @@ def run(dataset, option):
     mask = mask_org.copy()
 
     # Value x of R_x defined in the section 5 of the main paper.
-    r_threshold_value = 0.2
+    r_threshold_value = option.rval
     if option.R0:
         r_threshold_value = 0
     elif option.R20:
@@ -547,6 +547,7 @@ if __name__ == "__main__":
     parser.add_argument('--R20', action='store_true')
     parser.add_argument('--Final', action='store_true')
     parser.add_argument('--max_res', type=float, default=np.inf)
+    parser.add_argument('--rval', type=float, default=0.2)
 
     # Check for required input
     option_, _ = parser.parse_known_args()
