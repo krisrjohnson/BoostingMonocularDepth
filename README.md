@@ -30,9 +30,10 @@ For this assignment, we found a very cool paper that created impressive higher r
 
 
 <figure class="image">
-  <img src="./figures/ReceptiveFieldEffects.png" alt="Receptive Field Effects on Different Input Resolutions" width=30%>
+  <img src="./figures/ReceptiveFieldEffects.png" alt="Receptive Field Effects on Different Input Resolutions" width=75%>
   <figcaption>Receptive Field Effects on Different Input Resolutions</figcaption>
 </figure>
+<br>
 
 
 The paper performs a "double estimation method". The authors train a "Mergenet" to blend low and high resolution depth maps by training a 10 layer UNet as a Generator within the [pix2pix](https://github.com/phillipi/pix2pix) GAN architecutre. The low resolution outputs usefully capture scene consistency, so depth is consistent across the entire image. The high resolution inputs capture high frequency details and improved boundaries, so a small bird or tiny pipe will appear where the low resolution might've missed it.
