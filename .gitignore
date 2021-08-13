@@ -1,4 +1,8 @@
 /.idea
+Adirondack/
+bike/
+bike2/
+*.DS_Store
 .ipynb_checkpoints
 /pix2pix/checkpoints
 /midas/model-f46da743.pt
