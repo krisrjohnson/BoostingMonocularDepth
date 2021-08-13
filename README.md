@@ -84,8 +84,8 @@ At lower thresholds the rear tire blends in with the back wall, while higher thr
 __Pipes__
 <p float="left" width=100%>
 <figure class="image">
-  <img src="./figures/pipes_im0.png" alt="Bike" width=40%>
-  <img src="./figures/pipes_exp.gif" alt="Receptive Field Effects on Different Input Resolutions" width=40%>
+  <img src="./figures/pipes_im0.png" alt="Pipes" width=40%>
+  <img src="./figures/pipes_exp.gif" alt="Pipes Output" width=40%>
 </figure>
 </p>
 
@@ -94,8 +94,8 @@ Starting at t15 the smaller pipes in the background appear.
 __Adirondack__
 <p float="left" width=100%>
 <figure class="image">
-  <img src="./figures/Adirondack_im0.png" alt="Bike" width=40%>
-  <img src="./figures/Adirondack_exp.gif" alt="Receptive Field Effects on Different Input Resolutions" width=40%>
+  <img src="./figures/Adirondack_im0.png" alt="Adirondack Chair" width=40%>
+  <img src="./figures/Adirondack_exp.gif" alt="Adirondack Output" width=40%>
 </figure>
 </p>
 
